@@ -1,0 +1,17 @@
+img {
+  width: 15%;
+height: 15%;
+}
+
+button {
+  float: left;
+  width: 30%;
+  height: 8%;
+  padding: 10px;
+  background: #b82b21;
+  color: white;
+  font-size: 17px;
+  border-color: #b82b21;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
